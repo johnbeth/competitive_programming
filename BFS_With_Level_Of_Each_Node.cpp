@@ -55,7 +55,7 @@ int32_t main()
             }
         }
         // you can print level of each node
-        cout<<level[4]<<"\n";
+        //cout<<level[4]<<"\n";
     }
     return 0;
 }
